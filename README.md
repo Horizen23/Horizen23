@@ -24,8 +24,7 @@ I have experience in cloning Uniswap V2, integrating it with Solidity smart cont
 I'm passionate about continuous learning and staying updated with the latest industry trends. Feel free to reach out if you want to collaborate on a project or just have a chat about tech!
 
 - **Email:** [mailto:com100pb@gmail.com](mailto:com100pb@gmail.com)
-- **Twitter:** [https://twitter.com/your-twitter-handle](https://x.com/com100pb)]([https://twitter.com/your-twitter-handle](https://x.com/com100pb))
-
+- **Twitter:** [com100pb](https://x.com/com100pb)]
 ---
 
 Thank you for visiting my GitHub profile! 😊
